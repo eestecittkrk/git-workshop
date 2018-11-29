@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <DOCTYPE html>
 <html>
@@ -9,3 +10,6 @@ csdvfdbfdhb
 vfdfd
 </body>
 </html>
+=======
+pliczek zostal zmieniony
+>>>>>>> dedeeee62fc833798d81165be20587ced1ea1d4a
